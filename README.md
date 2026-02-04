@@ -1,0 +1,1 @@
+GymTracker ist meine persönliche Android-App zum Tracken von Krafttraining, weil mir bestehende Apps zu überladen oder zu unflexibel waren. Fokus: Templates, Workout-Logging und Fortschrittscharts (Kotlin, Jetpack Compose, Room, MVVM).
